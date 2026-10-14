@@ -69,6 +69,16 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "MC LEOZIN - E ELA SABE BEM QUE EU SOU ENVOLVIDO (by : Dzn) Altão", id = "119864387795208"},
+        {name = "O DRYZINHO ME DEIXOU SAFADA VERSÃO RJ - (by: Dzn) Altão 😂", id = "115879186364252"},
+        {name = "MONTAGEM AQUATIC AMBIENCE 2.0 - (by : Dzn)", id = "109367622521051"},
+        {name = "MONTAGEM - EMPINA NA ONDA  (MotoG/larparam)", id = "138738876309237"},
+        {name = "CHEI D FOGO NA PIROCA (feito por Dzn) Altão", id = "127615454743173"},
+        {name = "BERIMBAU DA TURQUIA (feito por Dzn) Extourado", id = "80937607674721"},
+        {name = "NOVINHA DO ABC (YY_PATINHAS)", id = "76498101385509"},
+        {name = "MTG BLACK LANÇA   (YY_PATINHAS x CHARADA x BLOODYROBINS x CCZ)", id = "134679962114231"},
+        {name = "HOJE NA DZ7 MC JM DJ MR7  (Yy_Patinhas x BloodyRobins)", id = "102618435275201"},
+        {name = "NA CARA - A TARRAXADA - ( BIELXP7 )", id = "78933717085067"},
         {name = "sai fora", id = "109146055347656"},
         {name = "q isso", id = "132146926560723"},
         {name = "calma novinh", id = "122394483729363"},
