@@ -70,7 +70,6 @@ return {
     },
     ["Funk"] = {
         {name = "piranha interesseira", id = "138730944430517"},
-        {name = "A lei dos 3 macetes", id = "11827933474223"},
         {name = "maluco dms amigo", id = "127275242574475"},
         {name = "calma pai", id = "118700341959988"},
         {name = "tipo sinistro", id = "94365050554101"},
