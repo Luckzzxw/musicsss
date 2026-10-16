@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "Gin de 10", id = "140191183373449"},
         {name = "lei dos 3 macete", id = "￴￴￴118279338474223"},
         {name = "piranha interesseira", id = "138730944430517"},
         {name = "maluco dms amigo", id = "127275242574475"},
