@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "maluco dms amigo", id = "127275242574475"},
         {name = "calma pai", id = "118700341959988"},
         {name = "tipo sinistro", id = "94365050554101"},
         {name = "MC LEOZIN - E ELA SABE BEM QUE EU SOU ENVOLVIDO (by : Dzn) Altão", id = "119864387795208"},
