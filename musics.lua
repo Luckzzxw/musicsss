@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "tipo sinistro", id = "94365050554101"},
         {name = "MC LEOZIN - E ELA SABE BEM QUE EU SOU ENVOLVIDO (by : Dzn) Altão", id = "119864387795208"},
         {name = "O DRYZINHO ME DEIXOU SAFADA VERSÃO RJ - (by: Dzn) Altão 😂", id = "115879186364252"},
         {name = "MONTAGEM AQUATIC AMBIENCE 2.0 - (by : Dzn)", id = "109367622521051"},
