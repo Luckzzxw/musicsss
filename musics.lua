@@ -70,7 +70,6 @@ return {
     },
     ["Funk"] = {
         {name = "DESTROCADORA", id = "112352365460055"},
-        {name = "Gin de 10", id = "140191183373449"},
         {name = "piranha interesseira", id = "138730944430517"},
         {name = "maluco dms amigo", id = "127275242574475"},
         {name = "calma pai", id = "118700341959988"},
