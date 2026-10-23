@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "funk sem nome,  bom", id = "72440232513341"},
         {name = "O Palhaço Tá Alterado", id = "129804570129958"},
         {name = "DESTROCADORA", id = "112352365460055"},
         {name = "piranha interesseira", id = "138730944430517"},
