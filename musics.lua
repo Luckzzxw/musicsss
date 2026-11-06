@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "LULA LADRÃO", id = "82428824095296"},
         {name = "RELÍQUIA MADE IN HELIÓPOLIS", id = "115542429774097"},
         {name = "PENSANDO EM VOCÊ", id = "87748599204665"},
         {name = "MEGA SET DO ALAN", id = "137391428984515"},
