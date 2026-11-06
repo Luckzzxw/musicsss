@@ -1,5 +1,6 @@
 return {
     ["Forró e Sertanejo"] = {
+        {name = "BOYS DO FORRÓ", id = "139462268046679"},
         {name = "EU ΜΕ ΑΡΑΪΧΟΝΕΙ", id = "139414982330352"},
         {name = "forro mt bom", id = "106412079335663"},
         {name = "ele tá no meu lugar mais nunca vai ser eu", id = "122871200237533"},
