@@ -409,7 +409,6 @@ return {
         {name = "casa do seu zÃ©", id = "82889452939550"},
         {name = "EU JA TO NA ONDA", id = "93483751210667"},
         {name = "VEM", id = "120892610283928"},
-        {name = "Senta no bugalu", id = "112504619203183"},
         {name = "FAMOSO FAIXA BRANCA", id = "73548536674899"},
         {name = "MONTAGEM - NÃƒO TEM SEGREDO", id = "76182545182727"},
         {name = "Eu de cabelo pretin", id = "126125120004125"},
